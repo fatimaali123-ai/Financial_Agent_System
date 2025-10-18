@@ -1,0 +1,6 @@
+streamlit
+yfinance
+textblob
+requests
+pandas
+numpy
